@@ -1,0 +1,14 @@
+spark-shell
+runMain Wikipedia.Ranking
+runMain WikipediaRanking
+runMain WikipediaRanking.main
+runMain wikipedia.WikipediaRanking
+cls
+cs
+runMain wikipedia.WikipediaRanking
+version
+submit purch@iandouglas.info y9fHrYCyeiWiTjv3
+:q
+quit
+:quit
+exit
